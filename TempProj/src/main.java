@@ -7,6 +7,7 @@ public class main {
 		// TODO Auto-generated method stub
 		System.out.println("hello");
 		System.out.println("hi");
-		System.out.println("1 + 1 = " + 2);
+		System.out.println("1 + 1 = 2");
+		System.out.println("1 + 1 = 3");
 	}
 }
