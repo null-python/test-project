@@ -9,5 +9,6 @@ public class main {
 		System.out.println("hi");
 		System.out.println("1 + 1 = 2");
 		System.out.println("1 + 1 = 3");
+		System.out.println("1 + 1 = 5");
 	}
 }
